@@ -4,7 +4,7 @@ This repository houses hardware reference design information for MakeCode Arcade
 
 # Project List
 
-- 
+- ArcadeMVD-STM: Arcade 'minimum viable design' based on STM32F4
 
 # Contributing
 
