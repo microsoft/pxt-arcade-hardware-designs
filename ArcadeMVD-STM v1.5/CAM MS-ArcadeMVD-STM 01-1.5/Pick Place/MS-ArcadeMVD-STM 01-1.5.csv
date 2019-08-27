@@ -1,0 +1,60 @@
+Altium Designer Pick and Place Locations
+D:\shodges\TFS-MSR\SenDev\Projects\EduBoards - MS\ArcadeMVD\Altium\ArcadeMVD-STM v1.5\.\CAM MS-ArcadeMVD-STM 01-1.5\Pick Place\MS-ArcadeMVD-STM 01-1.5.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       27/08/19
+Time:       15:01
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Layer","Center-X(mm)","Center-Y(mm)","Rotation"
+"C1","BottomLayer","-24.2760","58.9000","90"
+"C2","BottomLayer","-26.9440","59.9929","180"
+"C3","BottomLayer","-30.2300","48.9350","0"
+"C4","BottomLayer","-22.5860","43.0610","180"
+"C5","BottomLayer","-24.6180","43.0610","0"
+"C6","BottomLayer","-22.1500","52.5990","0"
+"C7","BottomLayer","-29.3960","50.5897","90"
+"C8","BottomLayer","-26.6540","43.0610","180"
+"C9","BottomLayer","-20.0000","45.3610","270"
+"C10","BottomLayer","-40.8104","52.6683","90"
+"C12","BottomLayer","-38.0200","47.9435","270"
+"C13","BottomLayer","-27.6050","54.9704","180"
+"C14","BottomLayer","-32.0000","47.5000","360"
+"C15","BottomLayer","-32.0000","45.9000","360"
+"D2","BottomLayer","-15.3959","57.1313","270"
+"D3","BottomLayer","-15.4990","59.6425","180"
+"D4","BottomLayer","-38.5835","53.1700","0"
+"D5","BottomLayer","-37.4458","59.9040","270"
+"D6","BottomLayer","-32.6000","42.7000","270"
+"D7","BottomLayer","-32.6000","40.7000","90"
+"F1","BottomLayer","-21.6760","57.5000","270"
+"FB1","BottomLayer","-42.1748","52.4743","270"
+"J1","BottomLayer","-9.1420","58.9500","360"
+"J3","BottomLayer","-46.3355","54.7230","270"
+"J6","BottomLayer","-42.8649","42.4920","90"
+"LCD1","TopLayer","-41.9231","46.3033","180"
+"Q1","BottomLayer","-36.5935","45.2570","270"
+"Q2","BottomLayer","-19.0246","59.9440","90"
+"R3","BottomLayer","-20.0000","47.3930","270"
+"R4","BottomLayer","-41.4139","54.4140","180"
+"R5","BottomLayer","-36.5740","42.1670","90"
+"R6","BottomLayer","-39.4060","47.9150","90"
+"R7","BottomLayer","-37.4749","57.2576","90"
+"R8","BottomLayer","-30.0000","47.5000","180"
+"R9","BottomLayer","-30.0000","45.9000","180"
+"R10","BottomLayer","-25.0000","54.9700","180"
+"SW1","TopLayer","-45.4000","13.0000","315"
+"SW2","TopLayer","-33.6000","13.0000","315"
+"SW3","TopLayer","-39.5000","18.9000","45"
+"SW4","TopLayer","-39.5000","7.1000","45"
+"SW5","TopLayer","-5.5000","16.5000","0"
+"SW6","TopLayer","-14.5000","7.5000","0"
+"SW7","TopLayer","-21.0250","23.2500","0"
+"SW8","BottomLayer","-9.1749","52.3254","180"
+"U1","BottomLayer","-24.6540","47.9110","90"
+"U2","BottomLayer","-27.1420","57.5467","180"
+"X1","BottomLayer","-23.2120","40.8990","180"
