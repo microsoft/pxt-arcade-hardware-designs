@@ -1,11 +1,11 @@
 Altium Designer Pick and Place Locations
-D:\shodges\TFS-MSR\SenDev\Projects\EduBoards - MS\ArcadeMVD\Altium\ArcadeMVD-STM v1.5\.\CAM MS-ArcadeMVD-STM 01-1.5\Pick Place\MS-ArcadeMVD-STM 01-1.5.txt
+D:\shodges\TFS-MSR\SenDev\Projects\EduBoards - MS\ArcadeMVD\Altium\ArcadeMVD-STM v1.5 RTM\.\CAM MS-ArcadeMVD-STM 01-1.5\Pick Place\MS-ArcadeMVD-STM 01-1.5.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       27/08/19
-Time:       15:01
+Date:       30/08/19
+Time:       15:19
 Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mm

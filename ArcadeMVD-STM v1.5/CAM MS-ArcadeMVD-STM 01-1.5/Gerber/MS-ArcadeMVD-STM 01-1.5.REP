@@ -2,10 +2,27 @@
 FileName = MS-ArcadeMVD-STM 01-1.5.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : MS-ArcadeMVD-STM 01-1.5.GBO
+Generating : Drill Drawing
+      File : MS-ArcadeMVD-STM 01-1.5.GD1
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Board Outline
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D92
+    D93
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : MS-ArcadeMVD-STM 01-1.5.GTO
+
+    Adding Layer      : Top Overlay
 
     Adding Layer      : Board Outline
 
@@ -13,13 +30,6 @@ Generating : Bottom Overlay
 Used DCodes :
     D10
     D11
-    D26
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
 *************************************************************
 
 *************************************************************
@@ -60,94 +70,6 @@ Used DCodes :
     D23
     D24
     D25
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : MS-ArcadeMVD-STM 01-1.5.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D13
-    D36
-    D37
-    D38
-    D39
-    D40
-    D42
-    D43
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D57
-    D84
-    D85
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : MS-ArcadeMVD-STM 01-1.5.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D12
-    D13
-    D14
-    D15
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : MS-ArcadeMVD-STM 01-1.5.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D12
-    D13
-    D14
-    D15
 *************************************************************
 
 *************************************************************
@@ -197,20 +119,6 @@ Used DCodes :
     D81
     D82
     D83
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : MS-ArcadeMVD-STM 01-1.5.GTO
-
-    Adding Layer      : Top Overlay
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D10
-    D11
 *************************************************************
 
 *************************************************************
@@ -264,19 +172,111 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Drill Drawing
-      File : MS-ArcadeMVD-STM 01-1.5.GD1
+Generating : Top Paste
+      File : MS-ArcadeMVD-STM 01-1.5.GTP
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Board Outline
 
-    Adding Drill Pair : Top Layer-Bottom Layer
+    Adding Layer      : Top Layer
 
-    Adding Layer      : Drill Drawing
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D10
-    D92
-    D93
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : MS-ArcadeMVD-STM 01-1.5.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : MS-ArcadeMVD-STM 01-1.5.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D36
+    D37
+    D38
+    D39
+    D40
+    D42
+    D43
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D57
+    D84
+    D85
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : MS-ArcadeMVD-STM 01-1.5.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D10
+    D11
+    D27
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
 *************************************************************
 
