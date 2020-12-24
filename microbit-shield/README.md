@@ -70,7 +70,7 @@ There are two ways to implement an Arcade shield:
 ## Simple Shield Details
 
 * [PDF schematics](MicroBitArcadeShieldMVD%2008-1.1.PDF) of the reference design
-* [Bill of Materials](https://github.com/microsoft/pxt-arcade-hardware-designs/blob/master/microbit-shield/BOM%20(complete%20design)%20MicroBitArcadeShieldMVD%2008-1.1.xlsx)
+* [Bill of Materials](https://github.com/microsoft/pxt-arcade-hardware-designs/blob/master/microbit-shield/BOM%20(complete%20design)%20MicroBitArcadeShieldMVD%2008-1.1.xlsx?raw=true)
 
 As its name suggests, the design of a Simple Shield is straightforward. The micro:bit V2 edge connector 
 SPI lines drive the display module directly, although simple low-pass RC filters are likely to be required 
