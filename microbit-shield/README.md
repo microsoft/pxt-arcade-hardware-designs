@@ -17,7 +17,8 @@ requirements for a MakeCode Arcade shield for micro:bit V2.
 Any shield that is produced must be approved by Microsoft and The Micro:bit Educational Foundation before
 it is publicly listed.
 
-[PDF schematics](MicroBitArcadeShieldMVD%2008-1.1.PDF) of our hardware reference designs are available in this folder.
+[PDF schematics](https://raw.githubusercontent.com/microsoft/pxt-arcade-hardware-designs/master/microbit-shield/MicroBitArcadeShieldMVD%2008-1.1.PDF)
+of our hardware reference designs are available in this folder.
 For some of these PDFs, if you view with Adobe Reader
 then clicking on the symbol of each component in the design will show the manufacturer name and part number plus other
 details. Other PDF-viewing software may not support this feature.
@@ -69,7 +70,7 @@ There are two ways to implement an Arcade shield:
 
 ## Simple Shield Details
 
-* [PDF schematics](MicroBitArcadeShieldMVD%2008-1.1.PDF) of the reference design
+* [PDF schematics](https://raw.githubusercontent.com/microsoft/pxt-arcade-hardware-designs/master/microbit-shield/MicroBitArcadeShieldMVD%2008-1.1.PDF) of the reference design
 * [Bill of Materials](https://github.com/microsoft/pxt-arcade-hardware-designs/blob/master/microbit-shield/BOM%20(complete%20design)%20MicroBitArcadeShieldMVD%2008-1.1.xlsx?raw=true)
 
 As its name suggests, the design of a Simple Shield is straightforward. The micro:bit V2 edge connector 
@@ -217,7 +218,8 @@ There are instructions for building and modifying it in the firmware repository.
 
 ### Reference Hardware Designs
 
-The [PDF file](smart-shield-v0.0.1.pdf) in this folder shows changes between the Simple and MCU Shields in schematic form.
+The [PDF file](https://raw.githubusercontent.com/microsoft/pxt-arcade-hardware-designs/master/microbit-shield/smart-shield-v0.0.1.pdf) 
+in this folder shows changes between the Simple and MCU Shields in schematic form.
 Essentially:
 * the input shift registers are replaced with an MCU, which is then connected to the screen;
 * button pull-ups are removed sicne the MCU has internal pull-ups;
