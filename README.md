@@ -4,7 +4,8 @@ This repository houses hardware reference design information for MakeCode Arcade
 
 # Project List
 
-- ArcadeMVD-STM: Arcade 'minimum viable design' based on STM32F4
+- ArcadeMVD-STM: Standalone MakeCode Arcade gaming console based on STM32F4
+- microbit-shield: MakeCode Arcade 'shield' for use with micro:bit V2
 
 # Contributing
 
