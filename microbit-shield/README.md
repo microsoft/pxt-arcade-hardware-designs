@@ -17,7 +17,7 @@ requirements for a MakeCode Arcade display shield for micro:bit V2.
 Any shield that is produced must be approved by Microsoft and The Micro:bit Educational Foundation before
 it will be publicly listed.
 
-A [PDF schematic](https://raw.githubusercontent.com/microsoft/pxt-arcade-hardware-designs/master/microbit-shield/MicroBitArcadeShieldMVD%2008-1.1.PDF)
+A [PDF schematic](https://raw.githubusercontent.com/microsoft/pxt-arcade-hardware-designs/master/microbit-shield/MicroBitArcadeShieldMVD%2008-1.2.PDF)
 of our hardware reference design is available in this folder.
 If you view this with Adobe Reader
 then clicking on the symbol of each component in the design will show the manufacturer name and part number plus other
@@ -65,8 +65,8 @@ There are two ways to implement an Arcade shield:
 
 ## Simple Shield Details
 
-* [PDF schematics](https://raw.githubusercontent.com/microsoft/pxt-arcade-hardware-designs/master/microbit-shield/MicroBitArcadeShieldMVD%2008-1.1.PDF) of the reference design
-* [Bill of Materials](https://github.com/microsoft/pxt-arcade-hardware-designs/blob/master/microbit-shield/BOM%20(complete%20design)%20MicroBitArcadeShieldMVD%2008-1.1.xlsx?raw=true)
+* [PDF schematics](https://raw.githubusercontent.com/microsoft/pxt-arcade-hardware-designs/master/microbit-shield/MicroBitArcadeShieldMVD%2008-1.2.PDF) of the reference design
+* [Bill of Materials](https://github.com/microsoft/pxt-arcade-hardware-designs/blob/master/microbit-shield/BOM%20(complete%20design)%20MicroBitArcadeShieldMVD%2008-1.2.xlsx?raw=true)
 
 As its name suggests, the design of a Simple Shield is straightforward. The micro:bit V2 edge connector 
 SPI lines drive the display module directly, although simple low-pass RC filters are likely to be required 
